@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **at @42School**
 
-- 👨‍💻 All of my projects are available [here](here)
+- 👨‍💻 All of my projects are available here
 
 - 💬 Ask me about **Discord.js, C**
 
