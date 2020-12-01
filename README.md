@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azodfr&label=Profile%20views&color=0e75b6&style=flat" alt="azodfr" /> </p>
 
 
-- 🔭 I’m currently working on **get_next_line**
+- 🔭 I’m currently working on **ft_printf**
 
 - 🌱 I’m currently learning **at @42School**
 
