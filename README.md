@@ -1,8 +1,7 @@
 <h1 align="center">Hello 👋, I'm Azod - thjacque</h1>
 <h3 align="center">A French developper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azodfr&label=Profile%20views&color=0e75b6&style=flat" alt="azodfr" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=azodfr&label=Profile%20views&color=0e75b6&style=flat" alt="azodfr" /> </p>
 
 - 🔭 I’m currently working on **ft_printf**
 
@@ -16,9 +15,9 @@
 
 <h3 align="left">42 Projects:</h3>
 
-- libft: [**115/100**](https://github.com/AzodFR/libft)
-
-- get_next_line: [**106/100**](https://github.com/AzodFR/get_next_line)
+|[libft](https://github.com/AzodFR/libft) | [get_next_line](https://github.com/AzodFR/get_next_line) | ft_printf |
+|---------|---------|------------| 
+| 115/100 | 106/100 | WORKING... |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
