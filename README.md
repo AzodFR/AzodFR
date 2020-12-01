@@ -14,6 +14,12 @@
 
 - 📫 How to reach me **thjacque@student.42lyon.fr**
 
+<h3 align="left">42 Projects:</h3>
+
+- libft: [**115/100**](https://github.com/AzodFR/libft)
+
+- get_next_line: [**106/100**](https://github.com/AzodFR/get_next_line)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/theo-jacq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="theo-jacq" height="30" width="40" /></a>
