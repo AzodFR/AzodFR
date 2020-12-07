@@ -15,9 +15,9 @@
 
 <h3 align="left">42 Projects:</h3>
 
-|[libft](https://github.com/AzodFR/libft) | [get_next_line](https://github.com/AzodFR/get_next_line) | [ft_printf](https://github.com/AzodFR/ft_printf) |
-|---------|---------|---------| 
-| 115/100 | 106/100 | 100/100 |
+|[libft](https://github.com/AzodFR/libft) | [get_next_line](https://github.com/AzodFR/get_next_line) | [ft_printf](https://github.com/AzodFR/ft_printf) | netwhat |
+|---------|---------|---------|----------------|
+| 115/100 | 106/100 | 100/100 | IN PROGRESS... |
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
