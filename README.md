@@ -15,7 +15,7 @@
 
 <h3 align="left">42 Projects:</h3>
 
-|[libft](https://github.com/AzodFR/libft) | [get_next_line](https://github.com/AzodFR/get_next_line) | [ft_printf](https://github.com/AzodFR/ft_printf) | netwhat | ft_server |
+|[libft](https://github.com/AzodFR/libft) | [get_next_line](https://github.com/AzodFR/get_next_line) | [ft_printf](https://github.com/AzodFR/ft_printf) | [netwhat](https://github.com/AzodFR/netwhat) | ft_server |
 |---------|---------|---------|---------|----------------|
 | 115/100 | 106/100 | 100/100 | 100/100 | IN PROGRESS... |
 
