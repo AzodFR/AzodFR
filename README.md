@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azodfr&label=Profile%20views&color=0e75b6&style=flat" alt="azodfr" /> </p>
 
-- 🔭 I’m currently working on **ft_server**
+- 🔭 I’m currently working on **cub3d**
 
 - 🌱 I’m currently learning **at @42School**
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">42 Projects:</h3>
 
-|[libft](https://github.com/AzodFR/libft) | [get_next_line](https://github.com/AzodFR/get_next_line) | [ft_printf](https://github.com/AzodFR/ft_printf) | [netwhat](https://github.com/AzodFR/netwhat) | ft_server |
-|---------|---------|---------|---------|----------------|
-| 115/100 | 115/100 | 100/100 | 100/100 | IN PROGRESS... |
+|[libft](https://github.com/AzodFR/libft) | [get_next_line](https://github.com/AzodFR/get_next_line) | [ft_printf](https://github.com/AzodFR/ft_printf) | [netwhat](https://github.com/AzodFR/netwhat) | [ft_server](https://github.com/AzodFR/ft_server) | cub3d
+|---------|---------|---------|---------|---------|----------------|
+| 115/100 | 115/100 | 100/100 | 100/100 | 100/100 | IN PROGRESS... |
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
