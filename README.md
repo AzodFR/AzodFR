@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azodfr&label=Profile%20views&color=0e75b6&style=flat" alt="azodfr" /> </p>
 
-- 🔭 I’m currently working on **libasm**
+- 🔭 I’m currently working on **ft_services**
 
 - 🌱 I’m currently learning **at @42School**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">42 Projects:</h3>
 
-|[libft](https://github.com/AzodFR/libft) | [get_next_line](https://github.com/AzodFR/get_next_line) | [ft_printf](https://github.com/AzodFR/ft_printf) | [netwhat](https://github.com/AzodFR/netwhat) | [ft_server](https://github.com/AzodFR/ft_server) | [cub3d](https://github.com/AzodFR/cub3d) | [libasm](https://github.com/AzodFR/libasm) | ft_service |
+|[libft](https://github.com/AzodFR/libft) | [get_next_line](https://github.com/AzodFR/get_next_line) | [ft_printf](https://github.com/AzodFR/ft_printf) | [netwhat](https://github.com/AzodFR/netwhat) | [ft_server](https://github.com/AzodFR/ft_server) | [cub3d](https://github.com/AzodFR/cub3d) | [libasm](https://github.com/AzodFR/libasm) | ft_services |
 |---------|---------|---------|---------|---------|---------|---------|----------------|
 | 115/100 | 115/100 | 100/100 | 100/100 | 100/100 | 115/100 | 100/100 | IN PROGRESS... |
 
