@@ -15,9 +15,9 @@
 
 <h3 align="left">42 Projects:</h3>
 
-|[libft](https://github.com/AzodFR/libft) | [get_next_line](https://github.com/AzodFR/get_next_line) | [ft_printf](https://github.com/AzodFR/ft_printf) | [netwhat](https://github.com/AzodFR/netwhat) | [ft_server](https://github.com/AzodFR/ft_server) | [cub3d](https://github.com/AzodFR/cub3d) | libasm
-|---------|---------|---------|---------|---------|---------|----------------|
-| 115/100 | 115/100 | 100/100 | 100/100 | 100/100 | 115/100 | IN PROGRESS... |
+|[libft](https://github.com/AzodFR/libft) | [get_next_line](https://github.com/AzodFR/get_next_line) | [ft_printf](https://github.com/AzodFR/ft_printf) | [netwhat](https://github.com/AzodFR/netwhat) | [ft_server](https://github.com/AzodFR/ft_server) | [cub3d](https://github.com/AzodFR/cub3d) | [libasm](https://github.com/AzodFR/libasm) | ft_service |
+|---------|---------|---------|---------|---------|---------|---------|----------------|
+| 115/100 | 115/100 | 100/100 | 100/100 | 100/100 | 115/100 | 100/100 | IN PROGRESS... |
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
