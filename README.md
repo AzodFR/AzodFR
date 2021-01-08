@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azodfr&label=Profile%20views&color=0e75b6&style=flat" alt="azodfr" /> </p>
 
-- 🔭 I’m currently working on **ft_services**
+- 🔭 I’m currently working on **ft_services and minishell**
 
 - 🌱 I’m currently learning **at @42School**
 
