@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **ft_services and minishell**
 
-- 🌱 I’m currently learning **at @42School**
+- 🌱 I’m currently learning **at [@42School](https://github.com/42School)**
 
-- 👨‍💻 All of my projects are available here
+- 👨‍💻 All of my projects are available [here](https://github.com/AzodFR?tab=repositories)
 
 - 💬 Ask me about **Discord.js, C**
 
