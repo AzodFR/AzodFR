@@ -19,11 +19,8 @@
 |---------|---------|---------|---------|---------|---------|---------|----------------|----------------|
 | 115/100 | 115/100 | 100/100 | 100/100 | 100/100 | 115/100 | 100/100 | IN PROGRESS... | IN PROGRESS... |
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/theo-jacq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="theo-jacq" height="30" width="40" /></a>
-<a href="https://instagram.com/thx.o21_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thx.o21_" height="30" width="40" /></a>
-</p>
+
+<p align="center"><img align="center" src="https://github.githubassets.com/images/mona-whisper.gif" /></p>
 
 
 <h3 align="center">Stats:</h3>
