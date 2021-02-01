@@ -16,8 +16,8 @@
 <h3 align="left">42 Projects:</h3>
 
 |[libft](https://github.com/AzodFR/libft) | [get_next_line](https://github.com/AzodFR/get_next_line) | [ft_printf](https://github.com/AzodFR/ft_printf) | [netwhat](https://github.com/AzodFR/netwhat) | [ft_server](https://github.com/AzodFR/ft_server) | [cub3d](https://github.com/AzodFR/cub3d) | [libasm](https://github.com/AzodFR/libasm) | [ft_services](https://github.com/AzodFR/ft_services) | [minishell](https://github.com/AzodFR/minishell) |
-|---------|---------|---------|---------|---------|---------|---------|----------------|----------------|
-| 115/100 | 115/100 | 100/100 | 100/100 | 100/100 | 115/100 | 100/100 | IN PROGRESS... | IN PROGRESS... |
+|---------|---------|---------|---------|---------|---------|---------|---------|----------------|
+| 115/100 | 115/100 | 100/100 | 100/100 | 100/100 | 115/100 | 100/100 | 100/100 | IN PROGRESS... |
 
 
 <p align="center"><img align="center" src="https://github.githubassets.com/images/mona-whisper.gif" /></p>
