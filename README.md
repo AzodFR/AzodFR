@@ -25,3 +25,5 @@
 
 <h3 align="center">Stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azodfr&show_icons=true&locale=en&layout=compact" alt="azodfr" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azodfr&show_icons=true&locale=en" alt="azodfr" height="35%" width="35%" /></p>
+
+<p align="center"><img align="center" src="https://bit.ly/39KwA4g"/>
