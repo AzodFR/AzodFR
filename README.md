@@ -20,7 +20,7 @@
 | 115/100 | 115/100 | 100/100 | 100/100 | 100/100 | 115/100 | 100/100 | 100/100 | IN PROGRESS... |
 
 
-<p align="center"><img align="center" src="https://github.githubassets.com/images/mona-whisper.gif" /></p>
+<p align="center"><img align="center" src="https://media4.giphy.com/media/GDxw5aMKnu89BNEzLd/giphy.gif" /></p>
 
 
 <h3 align="center">Stats:</h3>
