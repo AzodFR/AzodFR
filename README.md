@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azodfr&label=Profile%20views&color=0e75b6&style=flat" alt="azodfr" /> </p>
 
-- 🔭 I’m currently working on **minishell**
+- 🔭 I’m currently working on **minishell** & **Philosophers**
 
 - 🌱 I’m currently learning **at [@42School](https://github.com/42School)**
 
@@ -15,10 +15,13 @@
 
 <h3 align="left">42 Projects:</h3>
 
-|[libft](https://github.com/AzodFR/libft) | [get_next_line](https://github.com/AzodFR/get_next_line) | [ft_printf](https://github.com/AzodFR/ft_printf) | [netwhat](https://github.com/AzodFR/netwhat) | [ft_server](https://github.com/AzodFR/ft_server) | [cub3d](https://github.com/AzodFR/cub3d) | [libasm](https://github.com/AzodFR/libasm) | [ft_services](https://github.com/AzodFR/ft_services) | [minishell](https://github.com/AzodFR/minishell) |
+|[libft](https://github.com/AzodFR/libft) | [get_next_line](https://github.com/AzodFR/get_next_line) | [ft_printf](https://github.com/AzodFR/ft_printf) | [netwhat](https://github.com/AzodFR/netwhat) | [ft_server](https://github.com/AzodFR/ft_server) | [cub3d](https://github.com/AzodFR/cub3d) | [libasm](https://github.com/AzodFR/libasm) | [ft_services](https://github.com/AzodFR/ft_services) | [minishell](https://github.com/AzodFR/minishell) | 
 |---------|---------|---------|---------|---------|---------|---------|---------|----------------|
 | 115/100 | 115/100 | 100/100 | 100/100 | 100/100 | 115/100 | 100/100 | 100/100 | IN PROGRESS... |
 
+|[Philosophers](https://github.com/AzodFR/Philosophers) |
+|----------------|
+| IN PROGRESS... |
 
 <p align="center"><img align="center" src="https://media4.giphy.com/media/GDxw5aMKnu89BNEzLd/giphy.gif" /></p>
 
