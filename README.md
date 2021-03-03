@@ -19,9 +19,9 @@
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|
 | 115/100 | 115/100 | 100/100 | 100/100 | 100/100 | 115/100 | 100/100 | 100/100 | 100/100 |
 
-|[Philosophers](https://github.com/AzodFR/Philosophers) |
-|----------------|
-| IN PROGRESS... |
+|[push_swap](https://github.com/AzodFR/push_swap_example)|[Philosophers](https://github.com/AzodFR/Philosophers) |
+|---------|----------------|
+| Skipped | IN PROGRESS... |
 
 <p align="center"><img align="center" src="https://media4.giphy.com/media/GDxw5aMKnu89BNEzLd/giphy.gif" /></p>
 
