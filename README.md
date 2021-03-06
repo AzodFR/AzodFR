@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azodfr&label=Profile%20views&color=0e75b6&style=flat" alt="azodfr" /> </p>
 
-- 🔭 I’m currently working on **Philosophers**
+- 🔭 I’m currently working on **Piscine CPP**
 
 - 🌱 I’m currently learning **at [@42School](https://github.com/42School)**
 
@@ -19,9 +19,9 @@
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|
 | 115/100 | 115/100 | 100/100 | 100/100 | 100/100 | 115/100 | 100/100 | 100/100 | 100/100 |
 
-|[push_swap](https://github.com/AzodFR/push_swap_example)|[Philosophers](https://github.com/AzodFR/Philosophers) |
-|---------|----------------|
-| Skipped | IN PROGRESS... |
+|[push_swap](https://github.com/AzodFR/push_swap_example)|[Philosophers](https://github.com/AzodFR/Philosophers) | [CPP](https://github.com/AzodFR/Piscine_CPP)
+|---------|---------|----------------|
+| Skipped | 100/100 | IN PROGRESS... |
 
 <p align="center"><img align="center" src="https://media4.giphy.com/media/GDxw5aMKnu89BNEzLd/giphy.gif" /></p>
 
