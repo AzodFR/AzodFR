@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azodfr&label=Profile%20views&color=0e75b6&style=flat" alt="azodfr" /> </p>
 
-- 🔭 I’m currently working on **push_swap**
+- 🔭 I’m currently working on **push_swap** and my own ERC20 token: [Moula (MLA)](https://github.com/AzodFR/Moula)
 
 - 🌱 I’m currently learning **at [@42School](https://github.com/42School)**
 
