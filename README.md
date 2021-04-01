@@ -21,7 +21,7 @@
 
 |[push_swap](https://github.com/AzodFR/push_swap)|[Philosophers](https://github.com/AzodFR/Philosophers) | [CPP](https://github.com/AzodFR/Piscine_CPP)
 |----------------|---------|-----|
-| IN PROGRESS... | 100/100 | 8/8 |
+| IN PROGRESS... | 100/100 | 9/9 |
 
 <p align="center"><img align="center" src="https://media4.giphy.com/media/GDxw5aMKnu89BNEzLd/giphy.gif" /></p>
 
