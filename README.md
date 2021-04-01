@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/AzodFR?tab=repositories)
 
-- 💬 Ask me about **Discord.js, C**
+- 💬 Ask me about **Discord.js, C, C++, Node.js**
 
 - 📫 How to reach me **thjacque@student.42lyon.fr**
 
