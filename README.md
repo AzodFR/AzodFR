@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Discord.js, C, C++, Node.js**
 
-- 📫 How to reach me **thjacque@student.42lyon.fr**
+- 📫 How to reach me **thjacque@student.42lyon.fr** or on discord **Azod#9999**
 
 <h3 align="left">42 Projects:</h3>
 
