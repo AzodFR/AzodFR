@@ -15,6 +15,8 @@
 
 <h3 align="left">42 Projects:</h3>
 
+<h4 align="left">Common Core:</h4>
+
 |[libft](https://github.com/AzodFR/libft) | [get_next_line](https://github.com/AzodFR/get_next_line) | [ft_printf](https://github.com/AzodFR/ft_printf) | [netwhat](https://github.com/AzodFR/netwhat) | [ft_server](https://github.com/AzodFR/ft_server) | [cub3d](https://github.com/AzodFR/cub3d) | [libasm](https://github.com/AzodFR/libasm) | [ft_services](https://github.com/AzodFR/ft_services) | [minishell](https://github.com/AzodFR/minishell) | 
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|
 | 115/100 | 115/100 | 100/100 | 100/100 | 100/100 | 115/100 | 100/100 | 100/100 | 100/100 |
@@ -22,6 +24,13 @@
 |[push_swap](https://github.com/AzodFR/push_swap)|[Philosophers](https://github.com/AzodFR/Philosophers) | [CPP](https://github.com/AzodFR/Piscine_CPP) | [ft_containers](https://github.com/AzodFR/ft_containers) | [WebServ](https://github.com/thallard/webserv) | [Born2beroot](https://github.com/AzodFR/born2beroot) |
 |---------|---------|-----|---------|----------------|----------------|
 | 125/100 | 100/100 | 9/9 | 100/100 | In Progress... | In Progress... |
+
+
+<h4 align="left">Extra:</h4>
+
+|[ft_ping](https://github.com/thallard/ft_ping)|
+|----------------|
+| In Progress... |
 
 <p align="center"><img align="center" src="https://media4.giphy.com/media/GDxw5aMKnu89BNEzLd/giphy.gif" /></p>
 
