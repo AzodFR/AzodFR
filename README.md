@@ -28,7 +28,7 @@
 
 <h4 align="left">Extra:</h4>
 
-|[ft_ping](https://github.com/thallard/ft_ping)|
+|[ft_ping](https://github.com/AzodFR/ft_ping)|
 |----------------|
 | In Progress... |
 
