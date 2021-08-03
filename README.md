@@ -25,12 +25,18 @@
 |---------|---------|-----|---------|---------|---------|----------------|
 | 125/100 | 100/100 | 9/9 | 100/100 | 125/100 | 110/100 | In Progress... |
 
+<h4 align="left">IA:</h4>
 
-<h4 align="left">Extra:</h4>
+|[ft_linear_regression](https://github.com/AzodFR/ft_linear_regression)|
+|----------------|
+| In Progress... |
+
+<h4 align="left">Network:</h4>
 
 |[ft_ping](https://github.com/AzodFR/ft_ping)|
 |----------------|
 | In Progress... |
+
 
 <p align="center"><img align="center" src="https://media4.giphy.com/media/GDxw5aMKnu89BNEzLd/giphy.gif" /></p>
 
