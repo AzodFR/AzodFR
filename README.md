@@ -34,8 +34,8 @@
 <h4 align="left">IA:</h4>
 
 |[ft_linear_regression](https://github.com/AzodFR/ft_linear_regression)|[dslr](https://github.com/AzodFR/dslr)|
-|----------------|----------------|
-| In Progress... | In Progress... |
+|---------|----------------|
+| 125/100 | In Progress... |
 
 <h4 align="left">Network:</h4>
 
