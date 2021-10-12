@@ -28,14 +28,14 @@
 <h4 align="left">Security:</h4>
 
 |[snow-crash](https://github.com/AzodFR/snow-crash)|[rainfall](https://github.com/AzodFR/rainfall)|
-|----------------|----------------|
-| In Progress... | In Progress... 
+|---------|----------------|
+| 125/100 | In Progress... |
 
 <h4 align="left">IA:</h4>
 
 |[ft_linear_regression](https://github.com/AzodFR/ft_linear_regression)|[dslr](https://github.com/AzodFR/dslr)|
-|---------|----------------|
-| 125/100 | In Progress... |
+|----------------|----------------|
+| In Progress... | In Progress... |
 
 <h4 align="left">Network:</h4>
 
