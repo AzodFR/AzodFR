@@ -44,10 +44,11 @@
 | In Progress... |
 
 
-<p align="center"><img align="center" src="https://media4.giphy.com/media/GDxw5aMKnu89BNEzLd/giphy.gif" /></p>
+<p align="center"><img align="center" src="https://media4.giphy.com/media/GDxw5aMKnu89BNEzLd/giphy.gif" /><img align="center" src="https://cdn.discordapp.com/emojis/654413208127537183.gif" /></p>
 
 
 <h3 align="center">Stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azodfr&show_icons=true&locale=en&layout=compact" alt="azodfr" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azodfr&show_icons=true&locale=en" alt="azodfr" height="35%" width="35%" /></p>
 
 <p align="center"><img align="center" src="https://bit.ly/39KwA4g"/>
+  <p align="center"><img align="center" src="https://cdn.discordapp.com/avatars/209392112914006016/a_b63b6108ab0c1af9deaee10e4cf86efc.gif?size=128" /></p>
