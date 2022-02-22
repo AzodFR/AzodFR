@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Azod - thjacque</h1>
+<h1 align="center">Hello 👋, I'm Azod</h1>
 <h3 align="center">A French developper</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azodfr&label=Profile%20views&color=0e75b6&style=flat" alt="azodfr" /> </p>
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Discord.js, C, C++, Node.js**
 
-- 📫 How to reach me **thjacque@student.42lyon.fr** or on discord **Azod#9999**
+- 📫 How to reach me on discord **Azod#9999**
 
 <h3 align="left">42 Projects:</h3>
 
@@ -50,5 +50,3 @@
 <h3 align="center">Stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azodfr&show_icons=true&locale=en&layout=compact" alt="azodfr" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azodfr&show_icons=true&locale=en" alt="azodfr" height="35%" width="35%" /></p>
 
-<p align="center"><img align="center" src="https://bit.ly/39KwA4g"/>
-  <p align="center"><img align="center" src="https://cdn.discordapp.com/avatars/209392112914006016/a_b63b6108ab0c1af9deaee10e4cf86efc.gif?size=128" /></p>
