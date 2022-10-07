@@ -30,42 +30,42 @@
 
 <h4 align="left">Common Core:</h4>
 
-|[libft](https://github.com/AzodFR/42-cursus/common-core/libft) | [get_next_line](https://github.com/AzodFR/42-cursus/common-core/get_next_line) | [ft_printf](https://github.com/AzodFR/42-cursus/common-core/ft_printf) | [netwhat](https://github.com/AzodFR/42-cursus/common-core/netwhat) | [ft_server](https://github.com/AzodFR/42-cursus/common-core/ft_server) | [cub3d](https://github.com/AzodFR/42-cursus/common-core/cub3d) | [libasm](https://github.com/AzodFR/42-cursus/common-core/libasm) | [ft_services](https://github.com/AzodFR/42-cursus/common-core/ft_services) | [minishell](https://github.com/AzodFR/42-cursus/common-core/minishell) | 
+|[libft](https://github.com/AzodFR/42-cursus/tree/master/common_core/libft) | [get_next_line](https://github.com/AzodFR/42-cursus/tree/master/common_core/get_next_line) | [ft_printf](https://github.com/AzodFR/42-cursus/tree/master/common_core/ft_printf) | [netwhat](https://github.com/AzodFR/42-cursus/tree/master/common_core/netwhat) | [ft_server](https://github.com/AzodFR/42-cursus/tree/master/common_core/ft_server) | [cub3d](https://github.com/AzodFR/42-cursus/tree/master/common_core/cub3d) | [libasm](https://github.com/AzodFR/42-cursus/tree/master/common_core/libasm) | [ft_services](https://github.com/AzodFR/42-cursus/tree/master/common_core/ft_services) | [minishell](https://github.com/AzodFR/42-cursus/tree/master/common_core/minishell) | 
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|
 | 115/100 | 115/100 | 100/100 | 100/100 | 100/100 | 115/100 | 100/100 | 100/100 | 100/100 |
 
-|[push_swap](https://github.com/AzodFR/42-cursus/common-core/push_swap)|[Philosophers](https://github.com/AzodFR/42-cursus/common-core/Philosophers) | [CPP](https://github.com/AzodFR/42-cursus/common-core/Piscine_CPP) | [ft_containers](https://github.com/AzodFR/42-cursus/common-core/ft_containers) | [WebServ](https://github.com/AzodFR/42-cursus/common-core/webserv) | [Born2beroot](https://github.com/AzodFR/42-cursus/common-core/born2beroot) | [ft_transcendence](https://github.com/AzodFR/42-cursus/common-core/ft_transcendence) |
+|[push_swap](https://github.com/AzodFR/42-cursus/tree/master/common_core/push_swap)|[Philosophers](https://github.com/AzodFR/42-cursus/tree/master/common_core/Philosophers) | [CPP](https://github.com/AzodFR/42-cursus/tree/master/common_core/Piscine_CPP) | [ft_containers](https://github.com/AzodFR/42-cursus/tree/master/common_core/ft_containers) | [WebServ](https://github.com/AzodFR/42-cursus/tree/master/common_core/webserv) | [Born2beroot](https://github.com/AzodFR/42-cursus/tree/master/common_core/born2beroot) | [ft_transcendence](https://github.com/AzodFR/42-cursus/tree/master/common_core/ft_transcendence) |
 |---------|---------|-----|---------|---------|---------|---------|
 | 125/100 | 100/100 | 9/9 | 100/100 | 125/100 | 110/100 | 100/100 |
 
 <h4 align="left">Security:</h4>
 
-|[snow-crash](https://github.com/AzodFR/42-cursus/security/snow-crash)|[rainfall](https://github.com/AzodFR/42-cursus/security/rainfall)|[override](https://github.com/AzodFR/42-cursus/security/override)|
+|[snow-crash](https://github.com/AzodFR/42-cursus/tree/master/security/snow-crash)|[rainfall](https://github.com/AzodFR/42-cursus/tree/master/security/rainfall)|[override](https://github.com/AzodFR/42-cursus/tree/master/security/override)|
 |---------|---------|----------------|
 | 125/100 | 125/100 | In Progress... |
 
 <h4 align="left">IA:</h4>
 
-|[ft_linear_regression](https://github.com/AzodFR/42-cursus/ia/ft_linear_regression)|[dslr](https://github.com/42-cursus/ia/AzodFR/dslr)|
+|[ft_linear_regression](https://github.com/AzodFR/42-cursus/tree/master/ia/ft_linear_regression)|[dslr](https://github.com/42-cursus/tree/master/ia/AzodFR/dslr)|
 |----------------|----------------|
 | In Progress... | In Progress... |
 
 <h4 align="left">Network:</h4>
 
-|[ft_ping](https://github.com/AzodFR/42-cursus/network/ft_ping)|[ft_malcolm](https://github.com/AzodFR/42-cursus/network/ft_malcolm)|
+|[ft_ping](https://github.com/AzodFR/42-cursus/tree/master/network/ft_ping)|[ft_malcolm](https://github.com/AzodFR/42-cursus/tree/master/network/ft_malcolm)|
 |----------------|----------------|
 | In Progress... | In Progress... |
 
 <h4 align="left">Virus:</h4>
 
-|[dr-quine](https://github.com/AzodFR/42-cursus/virus/dr-quine)|[tinky-winkey](https://github.com/AzodFR/42-cursus/virus/tinky-winkey)|
+|[dr-quine](https://github.com/AzodFR/42-cursus/tree/master/virus/dr-quine)|[tinky-winkey](https://github.com/AzodFR/42-cursus/tree/master/virus/tinky-winkey)|
 |----------------|----------------|
 | In Progress... | In Progress... |
 
 
 <h4 align="left">Unix:</h4>
 
-|[ft_ls](https://github.com/AzodFR/42-cursus/unix/ft_ls)|
+|[ft_ls](https://github.com/AzodFR/42-cursus/tree/master/unix/ft_ls)|
 |----------------|
 | In Progress... |
 
