@@ -1,78 +1,108 @@
-<h1 align="center">Hello 👋, I'm Azod</h1>
-<h3 align="center">A French developper</h3>
+<h3 align="left">Hi 👋! My name is Azod and I'm a Software Engineer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=azodfr&label=Profile%20views&color=0e75b6&style=flat" alt="azodfr" /> </p>
+###
 
-- 🔭 I’m currently working as **Developper** for [QTradingTheory](https://discord.gg/5qysSMmqqX)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AzodFR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AzodFR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🌱 I’m currently learning **at [@42School](https://github.com/42School)**
+###
 
-- 👨‍💻 All of my projects are available [here](https://github.com/AzodFR?tab=repositories)
+<img align="right" height="150" src="https://camo.githubusercontent.com/d097f95bf485f88ee8ecc2a1464134800b18ee5f7c91cf581b3472322a7cdc20/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4744787735614d4b6e753839424e457a4c642f67697068792e676966"  />
 
-- 💬 Ask me about **Discord.js, C, ASM, C++, Node.js, WAX/EOS Blockchain**
+###
 
-- 📫 How to reach me on discord **Azod#9999**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="confluence logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="30" alt="perl logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
+###
 
-<h3 align="left">QTT Projects:</h3>
+<div align="left">
+  <a href="https://discordapp.com/users/209392112914006016" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
-- [Heroes Of Arcan](https://www.heroesofarcan.io/) (In Alpha Test)
+###
 
-- [AfterLand](https://afterland.games/) (Soon)
+<br clear="both">
 
-- [Stake-WAX](https://app.stake-wax.io/#r=3)
+<img src="https://raw.githubusercontent.com/AzodFR/AzodFR/output/snake.svg" alt="Snake animation" />
 
-- [MasterDEX](https://masterdex.io/)
+###
 
-- [Panel WAX (P2E Scripts)](https://wax.azod.io/panel/)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AzodFR/count.svg?"  />
+</div>
 
-<h3 align="left">42 Projects:</h3>
-
-<h4 align="left">Common Core:</h4>
-
-|[libft](https://github.com/AzodFR/42-cursus/tree/master/common_core/libft) | [get_next_line](https://github.com/AzodFR/42-cursus/tree/master/common_core/get_next_line) | [ft_printf](https://github.com/AzodFR/42-cursus/tree/master/common_core/ft_printf) | [netwhat](https://github.com/AzodFR/42-cursus/tree/master/common_core/netwhat) | [ft_server](https://github.com/AzodFR/42-cursus/tree/master/common_core/ft_server) | [cub3d](https://github.com/AzodFR/42-cursus/tree/master/common_core/cub3d) | [libasm](https://github.com/AzodFR/42-cursus/tree/master/common_core/libasm) | [ft_services](https://github.com/AzodFR/42-cursus/tree/master/common_core/ft_services) | [minishell](https://github.com/AzodFR/42-cursus/tree/master/common_core/minishell) | 
-|---------|---------|---------|---------|---------|---------|---------|---------|---------|
-| 115/100 | 115/100 | 100/100 | 100/100 | 100/100 | 115/100 | 100/100 | 100/100 | 100/100 |
-
-|[push_swap](https://github.com/AzodFR/42-cursus/tree/master/common_core/push_swap)|[Philosophers](https://github.com/AzodFR/42-cursus/tree/master/common_core/Philosophers) | [CPP](https://github.com/AzodFR/42-cursus/tree/master/common_core/Piscine_CPP) | [ft_containers](https://github.com/AzodFR/42-cursus/tree/master/common_core/ft_containers) | [WebServ](https://github.com/AzodFR/42-cursus/tree/master/common_core/webserv) | [Born2beroot](https://github.com/AzodFR/42-cursus/tree/master/common_core/born2beroot) | [ft_transcendence](https://github.com/AzodFR/42-cursus/tree/master/common_core/ft_transcendence) |
-|---------|---------|-----|---------|---------|---------|---------|
-| 125/100 | 100/100 | 9/9 | 100/100 | 125/100 | 110/100 | 100/100 |
-
-<h4 align="left">Security:</h4>
-
-|[snow-crash](https://github.com/AzodFR/42-cursus/tree/master/security/snow-crash)|[rainfall](https://github.com/AzodFR/42-cursus/tree/master/security/rainfall)|[override](https://github.com/AzodFR/42-cursus/tree/master/security/override)|
-|---------|---------|----------------|
-| 125/100 | 125/100 | In Progress... |
-
-<h4 align="left">IA:</h4>
-
-|[ft_linear_regression](https://github.com/AzodFR/42-cursus/tree/master/ia/ft_linear_regression)|[dslr](https://github.com/42-cursus/tree/master/ia/AzodFR/dslr)|
-|----------------|----------------|
-| In Progress... | In Progress... |
-
-<h4 align="left">Network:</h4>
-
-|[ft_ping](https://github.com/AzodFR/42-cursus/tree/master/network/ft_ping)|[ft_malcolm](https://github.com/AzodFR/42-cursus/tree/master/network/ft_malcolm)|
-|----------------|----------------|
-| In Progress... | In Progress... |
-
-<h4 align="left">Virus:</h4>
-
-|[dr-quine](https://github.com/AzodFR/42-cursus/tree/master/virus/dr-quine)|[tinky-winkey](https://github.com/AzodFR/42-cursus/tree/master/virus/tinky-winkey)|
-|----------------|----------------|
-| In Progress... | In Progress... |
-
-
-<h4 align="left">Unix:</h4>
-
-|[ft_ls](https://github.com/AzodFR/42-cursus/tree/master/unix/ft_ls)|
-|----------------|
-| In Progress... |
-
-<p align="center"><img align="center" src="https://media4.giphy.com/media/GDxw5aMKnu89BNEzLd/giphy.gif" /><img align="center" src="https://cdn.discordapp.com/emojis/654413208127537183.gif" /></p>
-
-
-
-<h3 align="center">Stats:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azodfr&show_icons=true&locale=en&layout=compact" alt="azodfr" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azodfr&show_icons=true&locale=en" alt="azodfr" height="35%" width="35%" /></p>
-
+###
